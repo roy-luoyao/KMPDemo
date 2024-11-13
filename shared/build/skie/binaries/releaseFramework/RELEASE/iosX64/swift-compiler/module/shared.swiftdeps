@@ -1,0 +1,65 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "7d0a3ae1843a19292fe244e0181f7c7825fc46285c197f65a0c4c5edf0434442"
+build_start_time: [1731485041, 975015000]
+build_end_time: [1731485045, 339225000]
+inputs:
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.Flow.swift"
+  : [1731485041, 822328333]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxCoroutinesCore/KotlinxCoroutinesCore.FlowCollector.swift"
+  : [1731485041, 822394666]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.PolymorphicKind.swift"
+  : [1731485041, 822927291]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.PrimitiveKind.swift"
+  : [1731485041, 822986000]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.SerialKind.swift"
+  : [1731485041, 822811750]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.SerializersModule.swift"
+  : [1731485041, 822868375]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/KotlinxSerializationCore/KotlinxSerializationCore.StructureKind.swift"
+  : [1731485041, 823041375]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Shared/Shared.NewYearKt.swift"
+  : [1731485041, 823098166]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Shared/Shared.Platform_iosKt.swift"
+  : [1731485041, 823165667]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Shared/Shared.RocketComponent.swift"
+  : [1731485041, 822496666]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.AsyncStreamDispatcherDelegate.swift"
+  : [1731485041, 820351541]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.FlowConversions.swift"
+  : [1731485041, 822601208]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.Namespace.swift"
+  : [1731485041, 821373583]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieColdFlowIterator.swift"
+  : [1731485041, 822236124]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftFlow.swift"
+  : [1731485041, 821573791]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftFlowInternalProtocol.swift"
+  : [1731485041, 820917749]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftFlowIterator.swift"
+  : [1731485041, 821495458]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftFlowProtocol.swift"
+  : [1731485041, 820768457]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftMutableSharedFlow.swift"
+  : [1731485041, 821838666]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftMutableStateFlow.swift"
+  : [1731485041, 822105791]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftOptionalFlow.swift"
+  : [1731485041, 821638166]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftOptionalMutableSharedFlow.swift"
+  : [1731485041, 821904249]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftOptionalMutableStateFlow.swift"
+  : [1731485041, 822174791]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftOptionalSharedFlow.swift"
+  : [1731485041, 821767416]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftOptionalStateFlow.swift"
+  : [1731485041, 822026833]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftSharedFlow.swift"
+  : [1731485041, 821699249]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SkieSwiftStateFlow.swift"
+  : [1731485041, 821962499]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.Skie_SuspendResult.swift"
+  : [1731485041, 822698000]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.SwiftCoroutineDispatcher.swift"
+  : [1731485041, 819788207]
+  ? "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosX64/swift/generated/Skie/Skie.bridgeSubscriptionCount.swift"
+  : [1731485041, 820585499]

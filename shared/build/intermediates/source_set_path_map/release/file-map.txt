@@ -1,0 +1,8 @@
+com.example.kmpdemo.shared-pngs-0 /Users/yy/AndroidStudioProjects/KMPDemo/shared/build/generated/res/pngs/release
+com.example.kmpdemo.shared-resValues-1 /Users/yy/AndroidStudioProjects/KMPDemo/shared/build/generated/res/resValues/release
+com.example.kmpdemo.shared-mergeReleaseResources-2 /Users/yy/AndroidStudioProjects/KMPDemo/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.kmpdemo.shared-mergeReleaseResources-3 /Users/yy/AndroidStudioProjects/KMPDemo/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.kmpdemo.shared-merged_res-4 /Users/yy/AndroidStudioProjects/KMPDemo/shared/build/intermediates/merged_res/release
+com.example.kmpdemo.shared-androidMain-5 /Users/yy/AndroidStudioProjects/KMPDemo/shared/src/androidMain/res
+com.example.kmpdemo.shared-main-6 /Users/yy/AndroidStudioProjects/KMPDemo/shared/src/main/res
+com.example.kmpdemo.shared-release-7 /Users/yy/AndroidStudioProjects/KMPDemo/shared/src/release/res

@@ -1,0 +1,7 @@
+{
+    "": {
+        "emit-module-dependencies": "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosSimulatorArm64/swift-compiler/module/shared.d",
+        "swift-dependencies": "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosSimulatorArm64/swift-compiler/module/shared.swiftdeps",
+        "object": "/Users/yy/AndroidStudioProjects/KMPDemo/shared/build/skie/binaries/releaseFramework/RELEASE/iosSimulatorArm64/swift-compiler/object-files/shared.o"
+    }
+}
